@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**NoMorelov3/NoMorelov3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML & CSS 💻 enjoyer  
+Databases 🗄️ behind the scenes  
+Security 🛡️ always in mind  
+Minecraft 🟩 builder of worlds  
+Mods & Tweaks 🎮 always exploring
 
-Here are some ideas to get you started:
+Favorite stack:  
+- Python 🐍  
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Life motto:  
+> "Break. Fix. Learn. Repeat."
+
