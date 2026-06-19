@@ -8,7 +8,9 @@ Mods & Tweaks 🎮 always exploring
 
 Favorite stack:  
 - Python 🐍  
-- C++
+- _C++_
+- Java
+- JavaScript
 
 Life motto:  
 > "Break. Fix. Learn. Repeat."
