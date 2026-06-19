@@ -8,7 +8,7 @@ Mods & Tweaks 🎮 always exploring
 
 Favorite stack:  
 - Python 🐍  
-- _C++_
+- ~~C++~~
 - Java
 - JavaScript
 
